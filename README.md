@@ -1,4 +1,4 @@
 # Android-Sticky-RecyclerView
 Own implementation of Sticky RecyclerView
 
-![](http://i.imgur.com/dDcOU9m.gif)
+![StickyHeader](http://i.imgur.com/dVY93iD.gif)
